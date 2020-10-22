@@ -24,7 +24,7 @@ if (empty($userid))
     $error = 'You must enter your user id.';
 
 	
-// check that a message was entered
+// check that a details was entered
 if (empty($password))
     $error = 'You must enter password.';
 
